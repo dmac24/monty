@@ -19,7 +19,7 @@ Files are compiled this way: *$ gcc -Wall -Werror -Wextra -pedantic -std=c90 *.c
 
 ### Examples
 
-`ubuntu:~/monty$ cat -e bytecodes/00.m
+``ubuntu:~/monty$ cat -e bytecodes/00.m
 push 1$
 push 2$
 push 3$
@@ -28,7 +28,7 @@ ubuntu:~/monty$ ./monty bytecodes/00.m
 3
 2
 1
-ubuntu:~/monty$`
+ubuntu:~/monty$``
 
 ## Technologies & Tools:computer:
 
