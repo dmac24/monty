@@ -54,7 +54,7 @@ Files are compiled this way: *$ gcc -Wall -Werror -Wextra -pedantic -std=c90 *.c
          ubuntu:~/monty$ 
 ```
 
-## Technologies & Tools:computer:
+## Technologies & Tools
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?&style=flat-square&logo=Ubuntu&labelColor=282828)
 ![GNU_Bash](https://img.shields.io/badge/-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)
@@ -63,6 +63,5 @@ Files are compiled this way: *$ gcc -Wall -Werror -Wextra -pedantic -std=c90 *.c
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)
 
 ## Author
-* [**Diana M. Ayala**](https://github.com/dmac24) 
-* ![](https://icon-library.com/images/twitter-small-icon/twitter-small-icon-20.jpg)[](https://twitter.com/dmc_ayala)
+* [**Diana M. Ayala**](https://github.com/dmac24)🐦[Twitter](https://twitter.com/dmc_ayala)
 
