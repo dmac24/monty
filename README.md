@@ -63,5 +63,5 @@ Files are compiled this way: *$ gcc -Wall -Werror -Wextra -pedantic -std=c90 *.c
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)
 
 ## Author
-* [**Diana M. Ayala**](https://github.com/dmac24) ![Twitter](https://twitter.com/dmc_ayala)
+* [**Diana M. Ayala**](https://github.com/dmac24) ![(https://cdn.pixabay.com/photo/2018/06/22/19/03/logo-3491390_960_720.png)](https://twitter.com/dmc_ayala)
 
