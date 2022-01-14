@@ -7,7 +7,7 @@
  * Return: void
  */
 
-int main(int argc, char **argv)
+int main(int argc, char *argv[])
 {
 	stack_t *stack = NULL;
 	static char *string[1000] = {NULL};
@@ -31,7 +31,7 @@ int main(int argc, char **argv)
 	for (n = 0; getline(&(string[n]), &bufsize, fop) > 0; n++)
 		;
 	execute(string, stack);
-	free_list(string);
+	free_cof(string);
 	fclose(fop);
 	return (0);
 }
