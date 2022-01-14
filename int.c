@@ -47,7 +47,7 @@ int pushint(char *cof, int nl)
  * @cof: content
  * @nl: number of line
  *
- * return: 1
+ * Return: 1.
  */
 
 int mixnum(char *cof, int nl)
