@@ -9,9 +9,7 @@
 
 void execute(char *string[], stack_t *stack)
 {
-	int nl = 0;
-	int n = 0;
-	int i = 0;
+	int nl, n, i;
 
 	instruction_t st[] = {
 		{"pall", pall},
@@ -30,6 +28,7 @@ void execute(char *string[], stack_t *stack)
 			;
 		else
 		{
+			i = 0;
 			while (!_strcmp(st[i].opcode, "null"))
 			{
 				if (_strcmp(st[i].opcode, string[n]))
